@@ -1,11 +1,11 @@
-## LiveHouse ·´Ïò´úÀí£¨Heroku°æ£©
+## LiveHouse åå‘ä»£ç†ï¼ˆHerokuç‰ˆï¼‰
 
-### ÒÑÖª¸Ã°æ±¾´æÔÚÎÞ·¨µÇÂ¼ÎÊÌâ£¬ÇëÒÆ²½ NGINX °æ±¾ livehouse-in-nginx !!! 
-²¿ÊðÔÚ Heroku ÖÐ¼´¿ÉÁ¢¼´»ñµÃÒ»¸ö·Ç³£·½±ã·ÃÎÊ¹È¸èµÄ·½Ê½¡£Ô´´úÂë»ùÓÚ @Hsiny µÄ ```google-in-heroku``` ÐÞ¸Ä¶øÀ´¡£
+### å·²çŸ¥è¯¥ç‰ˆæœ¬å­˜åœ¨æ— æ³•ç™»å½•é—®é¢˜ï¼Œè¯·ç§»æ­¥ NGINX ç‰ˆæœ¬ livehouse-in-nginx !!! 
+Heroku ç‰ˆ Livehouse åä»£ç”¨äºŽè§£å†³å†…åœ°è®¿é—® Livehouse æ— æ³•è¿›å…¥ç›´æ’­é—´é—®é¢˜ã€‚æºä»£ç åŸºäºŽ @Hsiny çš„ ```google-in-heroku``` ä¿®æ”¹è€Œæ¥ã€‚
 
-### ÈçºÎ²¿Êð
+### å¦‚ä½•éƒ¨ç½²
 
-ÔÚ Windows µÄ Git Bash »òÕß Linux µÄÖÕ¶ËÖÐÔËÐÐÈçÏÂÃüÁî¼´¿É¡£
+åœ¨ Windows çš„ Git Bash æˆ–è€… Linux çš„ç»ˆç«¯ä¸­è¿è¡Œå¦‚ä¸‹å‘½ä»¤å³å¯ã€‚
 
 ```bash
 git clone https://github.com/brcm/livehouse-in-heroku
@@ -17,16 +17,16 @@ git push heroku master
 heroku open
 ```
 
-### ¸üÐÂÄÚÈÝ
+### æ›´æ–°å†…å®¹
 
-1. ÍêÉÆ HTTP ÇëÇóÍ·£¬HTTP ÏìÓ¦Í·Ìí¼Ó»º´æ×Ö¶Î
-2. ¶Ô Google Firebase ¿âµ¥¶À±¾µØ»º´æ
-3. Ç¿ÐÐÒÆ³ý¶àÓà Javascript ½Å±¾£¬ÀýÈç Facebook SDK¡¢¹ã¸æµÈ
-4. Ìí¼ÓÒ³Ãæ·±ÌåÖÐÎÄ×ª¼òÌåÖÐÎÄ JS ¿â£¬Ä¬ÈÏÆôÓÃ
-5. Web ·þÎñÆ÷Ìí¼Ó POST Óë Cookies Ö§³Ö
+1. å®Œå–„ HTTP è¯·æ±‚å¤´ï¼ŒHTTP å“åº”å¤´æ·»åŠ ç¼“å­˜å­—æ®µ
+2. å¯¹ Google Firebase åº“å•ç‹¬æœ¬åœ°ç¼“å­˜
+3. å¼ºè¡Œç§»é™¤å¤šä½™ Javascript è„šæœ¬ï¼Œä¾‹å¦‚ Facebook SDKã€å¹¿å‘Šç­‰
+4. æ·»åŠ é¡µé¢ç¹ä½“ä¸­æ–‡è½¬ç®€ä½“ä¸­æ–‡ JS åº“ï¼Œé»˜è®¤å¯ç”¨
+5. Web æœåŠ¡å™¨æ·»åŠ  POST ä¸Ž Cookies æ”¯æŒ
 
-### ÒÑÖªÎÊÌâ
+### å·²çŸ¥é—®é¢˜
 
-1. ÓÃ»§ÎÞ·¨µÇÂ¼£¬ÓÀÔ¶´¦ÓÚÎ´µÇÂ¼×´Ì¬
-2. ±¾µØ Firebase ¶ÁÈ¡ËÙ¶È¹ýÂý
-3. NGINX °æ±¾Ïà¶ÔÍêÉÆÇëÊ¹ÓÃ NGINX °æ±¾
+1. ç”¨æˆ·æ— æ³•ç™»å½•ï¼Œæ°¸è¿œå¤„äºŽæœªç™»å½•çŠ¶æ€
+2. æœ¬åœ° Firebase è¯»å–é€Ÿåº¦è¿‡æ…¢
+3. NGINX ç‰ˆæœ¬ç›¸å¯¹å®Œå–„è¯·ä½¿ç”¨ NGINX ç‰ˆæœ¬
